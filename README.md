@@ -1,0 +1,1 @@
+SKU excel file includes the SKU data that we used in the manuscript. They were put in sheets: SKU_iid and SKU_non-iid. The former is suitable for Proposition 1 of the manuscript while the latter is suitable for Appendix B.  
